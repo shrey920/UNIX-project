@@ -1,4 +1,3 @@
-mario-shellscript
-=================
+Mario in Bash
 
-Game do Mario Bros em Shell Script
+Unix project 2nd Year Engineering
